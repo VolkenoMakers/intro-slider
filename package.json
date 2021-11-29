@@ -1,0 +1,36 @@
+{
+  "name": "@volkeno/intro-slider",
+  "version": "1.0.0",
+  "description": "a react native module developped by volkeno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolkenoMakers/intro-slider.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "intro-slider",
+    "babacarMbengue12",
+    "volkeno"
+  ],
+  "author": "VolkenoMakers",
+  "peerDependencies": {
+    "react": "^16.8.6 || ^17.0.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@types/react-native": "^0.64.8",
+    "babel-preset-expo": "~8.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "typescript": "^4.3.5"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolkenoMakers/intro-slider/issues"
+  }
+}
