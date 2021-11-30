@@ -5,10 +5,10 @@
 ## Add it to your project
 
 - Using NPM
-  `npm install @volkeno/intro-slider`
+  `npm install @volkenomakers/intro-slider`
 - or:
 - Using Yarn
-  `yarn add @volkeno/intro-slider`
+  `yarn add @volkenomakers/intro-slider`
 
 ## Usage
 

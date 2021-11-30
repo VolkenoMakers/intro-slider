@@ -1,5 +1,5 @@
 {
-  "name": "@volkeno/intro-slider",
+  "name": "@volkenomakers/intro-slider",
   "version": "1.0.0",
   "description": "a react native module developped by volkeno",
   "main": "index.js",
@@ -15,9 +15,10 @@
     "react-native-component",
     "intro-slider",
     "babacarMbengue12",
-    "volkeno"
+    "volkeno",
+    "onboarding"
   ],
-  "author": "VolkenoMakers",
+  "author": "volkenomakers",
   "peerDependencies": {
     "react": "^16.8.6 || ^17.0.0",
     "react-native": ">=0.60.0"
