@@ -15,7 +15,7 @@
 ```javascript
 import React from "react";
 import { View } from "react-native";
-import IntroSlider from "@volkeno/intro-slider";
+import IntroSlider from "@volkenomakers/intro-slider";
 import { Icon, Text } from "react-native-elements";
 import { SafeAreaView } from "react-native";
 const data = [

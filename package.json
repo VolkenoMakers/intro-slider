@@ -1,6 +1,6 @@
 {
   "name": "@volkenomakers/intro-slider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a react native module developped by volkeno",
   "main": "index.js",
   "scripts": {
@@ -20,15 +20,14 @@
   ],
   "author": "volkenomakers",
   "peerDependencies": {
-    "react": "^16.8.6 || ^17.0.0",
-    "react-native": ">=0.60.0"
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
     "@types/react-native": "^0.64.8",
     "babel-preset-expo": "~8.1.0",
-    "metro-react-native-babel-preset": "^0.59.0",
-    "typescript": "^4.3.5"
+    "metro-react-native-babel-preset": "^0.59.0"
   },
   "license": "ISC",
   "bugs": {
