@@ -1,6 +1,6 @@
 # intro-slider
 
-![Single select](https://raw.githubusercontent.com/VolkenoMakers/intro-slider/main/demo.gif)
+![Single select](https://raw.githubusercontent.com/VolkenoMakers/intro-slider/files/demo.gif)
 
 ## Add it to your project
 

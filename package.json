@@ -1,6 +1,6 @@
 {
   "name": "@volkenomakers/intro-slider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a react native module developped by volkeno",
   "main": "index.js",
   "scripts": {
